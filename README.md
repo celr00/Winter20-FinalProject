@@ -4,7 +4,7 @@ Programa para un restaurante
 
 Autores:
   Carlos Enrique Lozada Rodríguez 556589
-  Karen Garza Treviño             5
+  Karen Garza Treviño             611107
 
 Objetivo:
 -
